@@ -1,0 +1,4 @@
+export type IFindedVacancyStatus =
+  | 'ACEITANDOCURRICULOS'
+  | 'NAOACEITANDOCURRICULOS'
+  | 'VAGAENCERRADA';
